@@ -1,10 +1,6 @@
 # YOLOv5: Real-Time Object Detection
 
-<div align="center">
 
-![YOLOv5 Banner](https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png)
-
-</div>
 
 ## 🚀 Overview
 
