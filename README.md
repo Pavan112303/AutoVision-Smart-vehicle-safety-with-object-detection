@@ -134,11 +134,6 @@ Export trained models to various formats for deployment:
 - **Industrial Automation**: Quality control and inspection
 - **Research & Development**: Computer vision experiments
 
-## 🆓 License
-
-This project is available under multiple licensing options:
-- **AGPL-3.0 License**: For academic research and personal projects
-- **Enterprise License**: For commercial applications
 
 ## 📞 Support
 
