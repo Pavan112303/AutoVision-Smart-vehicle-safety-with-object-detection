@@ -131,14 +131,7 @@ Export trained models to various formats for deployment:
 - **Research & Development**: Computer vision experiments
 
 
-## 📞 Support
 
-For technical support and questions:
-- Use the web interface help section
-- Check the integrated documentation
-- Access community forums through the application
-
----
 
 <div align="center">
 
